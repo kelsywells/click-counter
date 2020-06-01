@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+* {
+  background-color: red;
+}
+
+button {
+  height: 200px;
+  width: 30%;
+  border-radius: 2%;
+  background-color: #02a4d3;
+  font-size: 50px;
+  font-weight: bold;
+  border: 3px solid black;
+  text-decoration: underline;
+  text-shadow: 2px 1px 3px yellow;
+  box-shadow: 3px 3px 3px yellow;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+h2 {
+  text-shadow: 3px 1px 3px yellow;
+  text-decoration: underline;
+  font-size: 70px;
+}
+
+h1 {
+  text-shadow: 4px 2px 4px yellow;
+  font-size: 90px;
+}
+
